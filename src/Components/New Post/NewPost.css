@@ -1,0 +1,7 @@
+.newPostForm {
+  display: flex;
+  justify-content: center;
+}
+.individualElement {
+  margin: 1rem;
+}
